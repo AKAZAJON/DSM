@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.sayt
+{
+    width: 1228px;
+    height: 50px;
+    background-color: #A3AFBF;
+    margin: auto;
+    /* margin-top: 500px; */
+    margin-top: 200px;
+}
+.fa-globe
+{
+    margin-left: 800px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.fa-twitter
+{
+    font-size: 25px;
+}
+.fa-github
+{
+    font-size: 25px;
+}
